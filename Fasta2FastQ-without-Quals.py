@@ -2,7 +2,7 @@
 Convert FASTA to FASTQ file with a static Qual Score
 
 Usage:
-$ ./fasta_to_fastq NAME.fasta NAME.fastq
+$ ./Fasta2FastQ-without-Quals.py NAME.fasta NAME.fastq
 """
 
 import sys, os
